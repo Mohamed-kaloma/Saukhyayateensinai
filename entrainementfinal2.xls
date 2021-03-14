@@ -1,0 +1,25 @@
+id,nom,sexe,age,taille,poids,depuis,fievre,temperature,toux,saignements,diarrhee,eruption_cutannees,nez_qui_coule,diff_resp,vomissements,ne_boit_pas,ne_mange_pas,output
+1,Kasun,H,2,82,11,hier,non,37.8,1,0,0,0,0,0,0,0,0,A
+2,Irona,F,18,169,75, quelque h,oui,39,1,1,0,1,1,0,0,0,1,C
+3,Kjgvz,F,54,175,90,2j ou +,non,37,0,0,0,0,1,1,1,0,0,C
+4,Kasun,H,76,145,50,hier,oui,38,1,0,0,0,0,0,1,0,0,B
+5,Irona,F,66,159,80, quelque h,oui,39,1,0,0,0,0,0,0,0,0,B
+6,Kjgvz,F,54,167,45,2j ou +,non,37,1,0,0,0,0,0,1,0,1,A
+7,Kasun,H,78,157,90,hier,oui,38,1,1,0,1,1,1,0,1,0,C
+8,Irona,F,34,148,110, quelque h,oui,39,1,0,1,0,1,0,0,0,0,C
+9,Kjgvz,F,25,170,67,2j ou +,non,37,1,1,0,0,0,0,0,0,0,B
+10,Kasun,H,14,150,55, quelque h,oui,38,0,0,0,0,0,1,1,0,0,C
+11,Kjgvz,F,29,200,87,hier,oui,39,1,0,0,0,1,0,0,0,0,B
+12,Kasun,F,11,120,66,2j ou +,non,37,1,1,1,0,1,1,0,1,1,C
+13,Kjgvz,F,33,200,77, quelque h,oui,38,0,1,1,0,1,0,0,1,0,C
+14,Kasun,H,36,145,89,hier,oui,39,0,0,1,0,0,0,1,0,0,B
+15,Kjgvz,F,77,166,45,2j ou +,non,37,1,0,0,0,1,1,0,0,0,C
+16,Kasun,F,89,133,105, quelque h,oui,38.6,1,0,0,0,0,0,0,0,0,A
+17,Kjgvz,H,12,145,49,hier,non,37,1,0,0,0,0,1,0,0,0,C
+18,Kasun,F,17,203,77,2j ou +,oui,39,1,0,1,0,0,1,1,0,0,C
+19,Kjgvz,H,52,144,88, quelque h,non,37.6,1,0,0,1,1,0,0,0,0,B
+20,Kasun,F,20,205,99,hier,oui,39,0,0,0,1,1,1,1,1,0,C
+21,Kjgvz,H,45,156,101,2j ou +,non,38.9,0,0,0,0,0,0,1,0,0,A
+22,Kasun,H,53,167,97, quelque h,oui,37.7,1,1,1,0,1,0,1,1,1,C
+23,Kjgvz,F,66,180,86,hier,non,38,1,0,1,0,0,1,1,0,1,C
+24,Kasun,F,20,190,42,2j ou +,non,37,1,0,0,0,0,0,1,0,0,B
